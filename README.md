@@ -1,70 +1,57 @@
-# Getting Started with Create React App
+# SuitCraft
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+**SuitCraft** is an innovative platform designed to simplify and streamline the process of custom suit creation. From raw material selection to final delivery, SuitCraft connects customers with tailors to provide a seamless and personalized experience.
 
-## Available Scripts
+---
 
-In the project directory, you can run:
+## Features
 
-### `npm start`
+1. **Raw Material Selection**
+   - Customers can browse and select from a variety of suit fabrics and materials.
+   - Detailed descriptions and images of materials are provided for better decision-making.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+2. **Tailor Selection and Ranking**
+   - Tailors are ranked based on customer reviews and performance metrics.
+   - Customers can choose tailors based on their preferences.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+3. **Measurement Options**
+   - **Option 1:** If the customer knows their measurements, they can provide them directly during the ordering process.
+   - **Option 2:** If measurements are needed, customers are directed to their chosen tailor for assistance.
 
-### `npm test`
+4. **Order Workflow**
+   - Once the customer selects the suit material, the raw material is sent to the tailor for processing.
+   - After tailoring, the finished suit is delivered to the customer.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+5. **Direct Delivery**
+   - Customers opting for pre-provided measurements can enjoy direct delivery, skipping the tailor visit.
 
-### `npm run build`
+---
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Technology Stack
+- **Frontend:** HTML, CSS, JavaScript,React js,Next js
+- **Backend:** Express js,Node js
+- **Database:** MongoDB 
+---
+## How It Works
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+1. **Browse Materials:** Customers explore and select suit materials based on their preferences.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+2. **Tailor Assignment:** Customers choose a tailor ranked by quality and reviews.
 
-### `npm run eject`
+3. **Measurement Process:**
+   - Provide measurements directly.
+   - Schedule a session with the tailor for measurements.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+4. **Tailoring Process:** Tailor creates the suit using the selected material.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+5. **Delivery:** The final product is delivered to the customer.
+---
+## Contact
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+For questions or support, please contact:
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+- **Email:** [utsavhirapra21@gmail.com](utsavhirapra21@gmail.com)
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
