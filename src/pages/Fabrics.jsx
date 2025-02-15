@@ -15,7 +15,7 @@ const Fabrics = () => {
     {
       id: "1",
       name: "Premium Italian Cotton",
-      image: "https://images.unsplash.com/photo-1620799140408-edc6dcb6d633",
+      image: "https://images.clericitessuto.it/w:auto/h:auto/q:90/f:best/https://shop.newtess.com/comceptw/img/suiting-fabrics-img-8281.jpg",
       price: 45,
       rating: 4.8,
       type: "Cotton",
@@ -26,7 +26,7 @@ const Fabrics = () => {
     {
       id: "2",
       name: "Pure Mulberry Silk",
-      image: "https://images.unsplash.com/photo-1603251579431-8041402bdeda",
+      image: "https://cdn.shopify.com/s/files/1/0250/8557/5222/files/Fine-Natural-Stretch-Wool-VOMANO-Fabric-fabricsight-Meters-Shuttle-Grey_480x480.jpg?v=1642513746",
       price: 95,
       rating: 5.0,
       type: "Silk",
@@ -37,7 +37,7 @@ const Fabrics = () => {
     {
       id: "3",
       name: "Irish Linen",
-      image: "https://images.unsplash.com/photo-1620294145837-b3b918db3f38",
+      image: "https://cdn.shopify.com/s/files/1/0250/8557/5222/files/Worsted-Wool-Blend-for-Suits-ALENTO-Navy-Fabric-fabricsight-Meters-Charade-Navy-4-3_480x480.jpg?v=1642514063",
       price: 65,
       rating: 4.7,
       type: "Linen",
@@ -48,7 +48,7 @@ const Fabrics = () => {
     {
       id: "4",
       name: "Royal Velvet",
-      image: "https://images.unsplash.com/photo-1621846460883-65d99a5d1c48",
+      image: "https://cdn.shopify.com/s/files/1/0250/8557/5222/files/Premium-Pure-Wool-Suiting-Twill-MAVONE-Fabric-fabricsight-Meters-Nero_27f44ba8-ca40-4e66-aac8-16c8bc02a4c9_480x480.jpg?v=1642514134",
       price: 85,
       rating: 4.9,
       type: "Velvet",

@@ -36,7 +36,7 @@ const TailorCard = ({
         </div>
         <div className="flex items-center justify-between">
           <span className="text-lg font-semibold text-gray-900">
-            Starting at ${price}
+            Starting at ₹{price}
           </span>
           <button
             onClick={onViewProfile}

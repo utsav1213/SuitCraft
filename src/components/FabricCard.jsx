@@ -41,7 +41,7 @@ const FabricCard = ({
         </div>
         <div className="flex items-center justify-between">
           <span className="text-lg font-semibold text-gray-900">
-            ${price}/meter
+          ₹{price}/meter
           </span>
           <button
             onClick={onViewDetails}

@@ -21,7 +21,7 @@ const Navbar = () => {
             </div>
           </div>
           <div className="flex items-center">
-            <Link to="/login" className="bg-indigo-600 text-white px-4 py-2 rounded-md text-sm font-medium hover:bg-indigo-700">Login / Sign Up</Link>
+            <Link to="/signup" className="bg-indigo-600 text-white px-4 py-2 rounded-md text-sm font-medium hover:bg-indigo-700">Login / Sign Up</Link>
           </div>
         </div>
       </div>
